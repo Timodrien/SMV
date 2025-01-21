@@ -1,1 +1,24 @@
+Here I will list all parts you need to recreate this project!
 
+First you need to 3d print the 4 body parts, included as .stl
+I'm using an anycubic printer, but you can use any suitable printer -> if enough building space
+
+- 1 Servomotor DM996
+  https://amzn.eu/d/iZUQ0KS
+- 1 ESP32 Cam WROVER Dev module
+  https://amzn.eu/d/6mz7RJY
+- 1 PCF8574 module
+  https://amzn.eu/d/9zHyjQM
+- 1 Motorset
+  https://de.aliexpress.com/item/1005007022509493.html?spm=a2g0o.order_list.order_list_main.46.13055c5fMaVYrG&gatewayAdapt=glo2deu
+- 1 Switch
+  https://de.aliexpress.com/item/1005006117766211.html?spm=a2g0o.order_list.order_list_main.51.13055c5fMaVYrG&gatewayAdapt=glo2deu
+- 1 6V 4500 mAh akku
+  https://de.aliexpress.com/item/1005007550414837.html?spm=a2g0o.order_list.order_list_main.36.13055c5fMaVYrG&gatewayAdapt=glo2deu
+- 1 2p cable adapter
+  https://de.aliexpress.com/item/1005006672912740.html?spm=a2g0o.order_list.order_list_main.41.13055c5fMaVYrG&gatewayAdapt=glo2deu
+- 1 cable clamp
+  https://amzn.eu/d/bM0KtMz
+- Some screws M3 12mm
+
+I added the links to the Aliexpress and Amazon items I ordered, you can use similar products no need to use the exact same.
