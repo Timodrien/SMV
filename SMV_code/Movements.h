@@ -1,7 +1,6 @@
 #ifndef MOVEMENTS_H
 #define MOVEMENTS_H
 
-// Deklaration der Funktionen
 void initMotor();
 void Vor();
 void Rueck();
